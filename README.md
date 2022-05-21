@@ -1,3 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+bitvise...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+bitvise...)](https://git.io/typing-svg) https://visitor-badge.laobi.icu/badge?page_id=CommandSender
 
-![visitors](https://visitor-badge.laobi.icu/badge?CommandSender=CommandeSender)
